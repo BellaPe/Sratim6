@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sratim.iml" filepath="$PROJECT_DIR$/Sratim.iml" />
+      <module fileurl="file://C:\Users\Android\Documents\GitHub\Sratim5\Sratim\Sratim.iml" filepath="C:\Users\Android\Documents\GitHub\Sratim5\Sratim\Sratim.iml" />
+      <module fileurl="file://C:\Users\Administrator\Documents\GitHub\Sratim4\Sratim\Sratim.iml" filepath="C:\Users\Administrator\Documents\GitHub\Sratim4\Sratim\Sratim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Administrator\Documents\GitHub\Sratim4\Sratim\app\app.iml" filepath="C:\Users\Administrator\Documents\GitHub\Sratim4\Sratim\app\app.iml" />
+      <module fileurl="file://C:\Users\Android\Documents\GitHub\Sratim5\Sratim\app\app.iml" filepath="C:\Users\Android\Documents\GitHub\Sratim5\Sratim\app\app.iml" />
+    </modules>
+  </component>
+</project>
